@@ -1,0 +1,19 @@
+body {
+  background-color: khaki;
+}
+
+.centered-text {
+  text-align:center;
+}
+
+.centered-italics {
+  text-align:center;
+  font-style:italic;
+}
+
+.pic-box {
+  text-align:center;  
+    background-color:silver;
+}
+
+
